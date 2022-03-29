@@ -1,1 +1,4 @@
-# Pyhton_practice
+# Python_practice
+
+This repository is for python practice!!
+
